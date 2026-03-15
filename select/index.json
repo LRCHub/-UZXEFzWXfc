@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GOOD BOY",
+  "base_artist": "GD X TAEYANG",
+  "createdAt": "2026-03-15T06:38:12.530758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Savage Good Boy",
+      "artist": "Japanese Breakfast",
+      "has_synced": true,
+      "path": "select/01_Savage_Good_Boy_Japanese_Breakfast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Will Be A Good Boy",
+      "artist": "Gang of Four",
+      "has_synced": false,
+      "path": "select/02_I_Will_Be_A_Good_Boy_Gang_of_Four.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Be Good Boy",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/03_Be_Good_Boy_Madness.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Now I Wanna Be A Good Boy",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/04_Now_I_Wanna_Be_A_Good_Boy_Ramones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now I Wanna Be a Good Boy",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/05_Now_I_Wanna_Be_a_Good_Boy_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now I Wanna Be a Good Boy",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/06_Now_I_Wanna_Be_a_Good_Boy_Ramones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be A Good Boy",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/07_Be_A_Good_Boy_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What A Good Boy",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/08_What_A_Good_Boy_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What A Good Boy",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/09_What_A_Good_Boy_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be Good Boy",
+      "artist": "The Madness",
+      "has_synced": false,
+      "path": "select/10_Be_Good_Boy_The_Madness.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What A Good Boy - Live",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/11_What_A_Good_Boy_-_Live_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What a Good Boy (live)",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/12_What_a_Good_Boy_(live)_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GOOD BOY",
+      "artist": "GD X TAEYANG",
+      "has_synced": true,
+      "path": "select/13_GOOD_BOY_GD_X_TAEYANG.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Johnny Was a Good Boy",
+      "artist": "Mystery Trend",
+      "has_synced": false,
+      "path": "select/14_Johnny_Was_a_Good_Boy_Mystery_Trend.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad (Unpopular Theory Remix)",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/15_Good_Boy_Gone_Bad_(Unpopular_Theory_Remix)_TXT.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TXT",
+      "has_synced": true,
+      "path": "select/16_Good_Boy_Gone_Bad_TXT.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Now I Wanna Be a Good Boy",
+      "artist": "Huntingtons",
+      "has_synced": false,
+      "path": "select/17_Now_I_Wanna_Be_a_Good_Boy_Huntingtons.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Boy Gone Bad",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/18_Good_Boy_Gone_Bad_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD BOY",
+      "artist": "GD X TAEYANG",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_BOY_GD_X_TAEYANG.txt"
+    }
+  ]
+}
